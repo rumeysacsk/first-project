@@ -6,7 +6,10 @@ Commands used:
 2. listing files and folders: ls
 
 Hello rumeysacoskun !
-(used bash greet.sh >> README.md)
+used:
+```
+bash greet.sh >> README.md
+```
 
 Current date and time: Wed Nov  6 02:48:25 PM +03 2024
 Current username: rumeysacoskun
