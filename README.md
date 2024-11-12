@@ -2,12 +2,22 @@ The first project for practicing beginner level git, linux and shell scripting t
 
 Commands used:
 
-1. creating 3 folders: mkdir folder1 folder2 folder3
-2. listing files and folders: ls
+1. creating 3 folders:
+   ```
+   mkdir folder1 folder2 folder3
+   ```
+2. listing files and folders:
+   ```
+   ls
+   ```
 
 Hello rumeysacoskun !
-(bash greet.sh >> README.md)
+used:
+```
+bash greet.sh >> README.md
+```
 
+output of system_info.sh:
 Current date and time: Wed Nov  6 02:48:25 PM +03 2024
 Current username: rumeysacoskun
 Current directory: /home/rumeysacoskun/first-project
